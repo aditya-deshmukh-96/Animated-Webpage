@@ -1,0 +1,12 @@
+.container {
+  max-width: 100rem;
+  margin: 0 auto;
+}
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1.6rem 0;
+  // animation-name: moveInTop;
+  // animation-duration: 1.2s;
+}
